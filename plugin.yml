@@ -1,0 +1,10 @@
+main: clock.Main
+version: 1.0
+name: clock
+authors: [The_Spaceman, Keanuspek]
+
+commands:
+  clock:
+    description: clock
+    
+    
